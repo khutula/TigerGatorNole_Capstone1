@@ -17,7 +17,13 @@ The NCAA is interested in how college football games are changing over time to d
 
 <a name="objectives"></a>
 ### Research Questions to Answer
-
+*	Have average points per game increased over time?
+*	Have the number of turnovers per game decreased over time?
+*	Have the total yards per game increased over time?
+*	Has 3rd down efficiency per game increased over time?
+*	Has the margin of victory changed over time?
+*	Are there more explosive plays?
+*	Are there less punts per game?
 
 <a name="hypothesis"></a>
 ### Hypothesis
@@ -37,7 +43,8 @@ This project uses:
 ### Files
 * [Project_Proposal.docx](Project_Proposal.docx): word document containing the project proposal
 * [project_starter_notebook.ipynb](project_starter_notebook.ipynb): Jupyter Lab file that performs all API pulls and basic data analysis
-* [metrics_by_season.csv](Output/metrics_by_season.csv): output of all calculated metrics by season
+* [avg_points_by_season.csv](Output/avg_points_by_season.csv): output of average points scored per game by season for 1970 to 2020
+* [metrics_by_season.csv](Output/metrics_by_season.csv): output of all calculated metrics by season for 2004 to 2020
 * [teams_points_against.csv](Output/teams_points_against.csv): output of all calculated metrics by season
 * [Jupyter Notebook Viewer](): use this link to view the Jupyter Lab file in a friendly viewer version
 
