@@ -1,8 +1,6 @@
-# GT Bootcamp Project 1
 # College Football: The Decline of Defense
 ### Is college football defense going the way of the dinosaur?
 ### Team TigerGatorNole: Karina Hutula, Michelle Davis, Darryl Connelly
-***
 
 ## Table of Contents
 1. [Introduction](#introduction)
