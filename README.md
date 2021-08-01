@@ -36,17 +36,18 @@ The NCAA is interested in how college football games are changing over time to d
 ### Technologies
 This project uses: 
 * Python Version 3.6.13
-* Jupyter Lab Version 2.2.6
+* Jupyter Notebook Version 6.1.4
 * College Football Data API Key: stored in a variable named api_key in a file named config.py in the directory
 
 <a name="files"></a>
 ### Files
 * [Project_Proposal.docx](Project_Proposal.docx): word document containing the project proposal
-* [project_starter_notebook.ipynb](project_starter_notebook.ipynb): Jupyter Lab file that performs all API pulls and basic data analysis
+* [api_calls.ipynb](api_calls.ipynb): Jupyter Notebook file that performs all API pulls and exports data to csvs
+* [data_plots.ipynb](data_plots.ipynb): Jupyter Notebook file reads csvs and performs basic data analysis including plots and linear regressions
+* [ttest_analysis.ipynb](ttest_analysis.ipynb): Jupyter Notebook file that performs ttesting on average points per game
 * [avg_points_by_season.csv](Output/avg_points_by_season.csv): output of average points scored per game by season for 1970 to 2020
 * [metrics_by_season.csv](Output/metrics_by_season.csv): output of all calculated metrics by season for 2004 to 2020
 * [teams_points_against.csv](Output/teams_points_against.csv): output of all calculated metrics by season
-* [Jupyter Notebook Viewer](): use this link to view the Jupyter Lab file in a friendly viewer version
 
 <a name="analysis"></a>
 ### Analysis
