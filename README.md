@@ -71,8 +71,6 @@ This project uses:
 
 ![Average Loss of Yard Plays](Output/Average_Loss_of_Yard_Plays.png)
 
-![Average Margin of Victory](Output/Average_Margin_of_Victory.png)
-
 ![Average Number of Punts](Output/Average_Number_of_Punts.png)
 
 ![Average Standard Gain Plays](Output/Average_Standard_Gain_Plays.png)
