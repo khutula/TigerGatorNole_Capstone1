@@ -63,25 +63,25 @@ This project uses:
 <a name="analysis"></a>
 ### Analysis
 
-![Average Points Extended](Output/Average Points Extended.png)
+![Average Points Extended]("Output/Average Points Extended.png")
 
-![Average Points Scored](Output/Average Points Scored.png)
+![Average Points Scored]("Output/Average Points Scored.png")
 
-![Average Explosive Plays](Output/Average Explosive Plays.png)
+![Average Explosive Plays]("Output/Average Explosive Plays.png")
 
-![Average Loss of Yard Plays](Output/Average Loss of Yard Plays.png)
+![Average Loss of Yard Plays]("Output/Average Loss of Yard Plays.png")
 
-![Average Margin of Victory](Output/Average Margin of Victory.png)
+![Average Margin of Victory]("Output/Average Margin of Victory.png")
 
-![Average Number of Punts](Output/Average Number of Punts.png)
+![Average Number of Punts]("Output/Average Number of Punts.png")
 
-![Average Standard Gain Plays](Output/Average Standard Gain Plays.png)
+![Average Standard Gain Plays]("Output/Average Standard Gain Plays.png")
 
-![Average Third Down Efficiency](Output/Average Third Down Efficiency.png)
+![Average Third Down Efficiency]("Output/Average Third Down Efficiency.png")
 
-![Average Total Yards](Output/Average Total Yards.png)
+![Average Total Yards]("Output/Average Total Yards.png")
 
-![Average Turnovers](Output/Average Turnovers.png)
+![Average Turnovers]("Output/Average Turnovers.png")
 
 ![Play Type Bar Chart](Output/Play_Type_Bar.png)
 
