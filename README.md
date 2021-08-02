@@ -85,5 +85,7 @@ This project uses:
 
 ![Play Type Bar Chart](Output/Play_Type_Bar.png)
 
+![Histogram](Output/Histogram.png)
+
 <a name="implications"></a>
 ### Implications and Future Steps
