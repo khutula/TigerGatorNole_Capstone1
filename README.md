@@ -11,7 +11,7 @@
 6. [Technologies](#technologies)
 7. [Files](#files)
 8. [Analysis](#analysis)
-9. [Implications and Future Steps](#implications)
+9. [Implications and Recommendations](#implications)
 
 <a name="introduction"></a>
 ### Introduction
@@ -23,7 +23,6 @@ The NCAA is interested in how college football games are changing over time to d
 * Have the number of turnovers per game decreased over time?
 * Have the total yards per game increased over time?
 * Has 3rd down efficiency per game increased over time?
-* Has the margin of victory changed over time?
 * Are there more explosive plays?
 * Are there less punts per game?
 
@@ -86,4 +85,10 @@ This project uses:
 ![Histogram](Output/Histogram.png)
 
 <a name="implications"></a>
-### Implications and Future Steps
+### Implications and Recommendations
+* Implications
+    1. Assuming no changes are made to the game, we can continue to expect to see a rise in scoring as the seasons go on
+    2. The apparent value of defensive players may be harmed by this trend
+* Recommendations
+    1. Investigate if the trend of defense has had or will have a negative impact on the game, such as competitiveness or excitement of the game
+    2. Investigate how the speed of gameplay has changed over time and its affects on offense and defense
